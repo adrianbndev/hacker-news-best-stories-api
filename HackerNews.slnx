@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HackerNews.Api/HackerNews.Api.csproj" />
+    <Project Path="src/HackerNews.Application/HackerNews.Application.csproj" />
+    <Project Path="src/HackerNews.Domain/HackerNews.Domain.csproj" />
+    <Project Path="src/HackerNews.Infrastructure/HackerNews.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HackerNews.Api.IntegrationTests/HackerNews.Api.IntegrationTests.csproj" />
+    <Project Path="tests/HackerNews.Application.UnitTests/HackerNews.Application.UnitTests.csproj" />
+    <Project Path="tests/HackerNews.Infrastructure.UnitTests/HackerNews.Infrastructure.UnitTests.csproj" />
+  </Folder>
+</Solution>
