@@ -1,0 +1,7 @@
+[Bb]in/
+[Oo]bj/
+TestResults/
+.vs/
+.idea/
+*.user
+*.suo
